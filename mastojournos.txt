@@ -1,7 +1,13 @@
 Journalists:
 
+Jason Abbruzzese
+@JasonAbbruzzese@sciencemastodon.com 
+
 Hilda Bastian
 @hildabast@mastodon.online 
+
+Alan Boyle
+@alanboyle@mastodon.social
 
 Bethany Brookshire
 @beebrookshire@mastodon.online 
@@ -11,6 +17,12 @@ Siri Carpenter
 
 Stephen Cass
 @stephencass@indieweb.social 
+
+Davide Castelvecchi
+@castelvecchi@c.im
+
+adrian cho
+@hadriancho
 
 Charles Q. Choi
 @cqchoi@mastodon.online 
@@ -24,6 +36,21 @@ rose eveleth
 Dan Fagin
 @danfagin@mastodon.online
 
+Dan Falk
+@danfalk@sciencemastodon.com 
+
+Ann Finkbeiner
+@AnnFinkbeiner@sciencemastodon.com 
+
+seth fletcher
+@sethfletcher@sciencemastodon.com 
+
+dan garisto
+@dangaristo@sciencemastodon.com 
+
+James Gleick
+@JamesGleick@sciencemastodon.com 
+
 Flora Graham
 @floragraham@sciencemastodon.com 
 
@@ -36,17 +63,50 @@ Anders Halverson
 David Harris
 @physicsdavid@mastodon.social 
 
+Amanda Heidt
+@Scatter_Cushion@sciencemastodon.com 
+
 Jeff Jarvis
 @jeffjarvis@mastodon.social
 
 sarah jeong
 @sarahjeong@mastodon.social 
 
+Ash Jogalekar
+@ash@sciencemastodon.com 
+
+Molly jong-fast
+@mollyjongfast@mastodon.lol 
+
+Sheril Kirshenbaum
+@Sheril@mastodon.social 
+
+Will Knight
+@willknight@mastodon.social 
+
+Kai Kupferschmidt
+@kakape@mas.to 
+
 Stephanie M. Lee
 @stephaniemlee@sciencemastodon.com 
 
+Jessica Luton
+@jluton@sciencemastodon.com 
+
+Alexis Madrigal
+@alexismadrigal@sfba.social 
+
+Mike Masnick
+@mmasnick@mastodon.social 
+
+Maryn McKenna
+@marynmck@mastodon.social
+
 Christopher Mims
 @mimsical@mastodon.social 
+
+michael moyer
+@mmoyer@sciencemastodon.com 
 
 George Musser
 @gmusser@mastodon.social 
@@ -54,15 +114,44 @@ George Musser
 Laurel Oldach
 @LaurelOld@sciencemastodon.com 
 
+Mark Peplow
+@markpeplow@mastodon.social 
+
+Corey S Powell
+@coreyspowell@mastodon.social 
+
+siobhan roberts
+@sioroberts@sciencemastodon.com 
+
 Charles Seife
 @cgseife@sciencemastodon.com
+
+David Schwartz
+@dschwa8059@sciencemastodon.com 
 
 Noah Shachtman
 @noahshachtman@mstdn.social 
 
+Josh Sternberg
+@joshsternberg@mstdn.social
 
 Brian Vastag
 @brianvastag@scicomm.xyz
+
+dan vergano
+@dvergano@sciencemastodon.com 
+
+Paul Voosen
+@voooos@sciencemastodon.com 
+
+Margaret Wertheim
+@margaretwerth@sciencemastodon.com
+
+Natalie Wolchover
+@nattyover@sciencemastodon.com 
+
+Charlie Wood
+@charliewood@sciencemastodon.com
 
 Ed Yong
 @edyong209@mastodon.xyz
