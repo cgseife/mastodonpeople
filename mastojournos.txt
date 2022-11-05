@@ -69,8 +69,14 @@ Jack Gillum
 James Gleick
 @JamesGleick@sciencemastodon.com 
 
+Michelle Goldberg
+@michelle@journa.host
+
 Flora Graham
 @floragraham@sciencemastodon.com 
+
+Bill Grueskin
+@BGrueskin@journa.host
 
 Lila Guterman
 @lguterman@mastodon.online
@@ -86,6 +92,9 @@ Amanda Heidt
 
 Kashmir Hill
 @kashhill@mastodon.social 
+
+Ferris Jabr
+@ferrisjabr@mstdn.social
 
 Jeff Jarvis
 @jeffjarvis@mastodon.social
@@ -145,7 +154,10 @@ Christopher Mims
 @mimsical@mastodon.social 
 
 Glyn Moody
-@glynmoody@mastodon.social 
+@glynmoody@mastodon.social
+
+Matthew Moore
+@matthewrmoore@journa.host
 
 Sara Morrison
 @SaraMorrison@mastodon.social 
@@ -186,8 +198,17 @@ David Schwartz
 Charles Seife
 @cgseife@sciencemastodon.com
 
+Nick Schwellenbach
+@schwellenbach@journa.host
+
 Noah Shachtman
 @noahshachtman@mstdn.social 
+
+Ernie Smith
+@ernie@journa.host
+
+Michelle R. Smith
+@mrsmith@journa.host
 
 Josh Sternberg
 @joshsternberg@mstdn.social
@@ -212,6 +233,9 @@ Paul Voosen
 
 Margaret Wertheim
 @margaretwerth@sciencemastodon.com
+
+John West
+@jsbw@journa.host
 
 Natalie Wolchover
 @nattyover@sciencemastodon.com 
