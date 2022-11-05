@@ -28,7 +28,10 @@ Charles Q. Choi
 @cqchoi@mastodon.online 
 
 Kevin Collier
-@kevincollier@mastodon.social 
+@kevincollier@mastodon.social
+
+kate conger
+@cong@mastodon.social 
 
 Andrew Couts
 @couts@mastodon.social 
@@ -77,6 +80,9 @@ David Harris
 
 Amanda Heidt
 @Scatter_Cushion@sciencemastodon.com 
+
+Kashmir Hill
+@kashhill@mastodon.social 
 
 Jeff Jarvis
 @jeffjarvis@mastodon.social
@@ -135,6 +141,9 @@ Maryn McKenna
 Christopher Mims
 @mimsical@mastodon.social 
 
+Glyn Moody
+@glynmoody@mastodon.social 
+
 Sara Morrison
 @SaraMorrison@mastodon.social 
 
@@ -182,6 +191,9 @@ Josh Sternberg
 
 Aisha Sultan
 @AishaS@mastodon.online 
+
+Clive Thompson
+@clive@saturation.social 
 
 Brian Vastag
 @brianvastag@scicomm.xyz
