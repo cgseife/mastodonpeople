@@ -27,6 +27,12 @@ adrian cho
 Charles Q. Choi
 @cqchoi@mastodon.online 
 
+Kevin Collier
+@kevincollier@mastodon.social 
+
+Andrew Couts
+@couts@mastodon.social 
+
 Adam Davidson
 @adamdavidson@mastodon.social 
 
@@ -45,8 +51,14 @@ Ann Finkbeiner
 seth fletcher
 @sethfletcher@sciencemastodon.com 
 
+Andrew E. Freedman
+@FreedmanAE@mastodon.social 
+
 dan garisto
 @dangaristo@sciencemastodon.com 
+
+Jack Gillum
+@jgillum@mastodon.social 
 
 James Gleick
 @JamesGleick@sciencemastodon.com 
@@ -81,20 +93,38 @@ Molly jong-fast
 Sheril Kirshenbaum
 @Sheril@mastodon.social 
 
+Thorin Klosowski
+@Thorin@mastodon.social 
+
 Will Knight
 @willknight@mastodon.social 
 
 Kai Kupferschmidt
 @kakape@mas.to 
 
+Patrick LaForge
+@palafo@mstdn.social 
+
+Micah Lee
+@micahflee@mastodon.social
+
 Stephanie M. Lee
 @stephaniemlee@sciencemastodon.com 
+
+Taylor Lorenz
+@taylorlorenz@mastodon.social 
 
 Jessica Luton
 @jluton@sciencemastodon.com 
 
 Alexis Madrigal
 @alexismadrigal@sfba.social 
+
+Adam A. Marshall
+@a_marshall_plan@mastodon.social 
+
+Josh Marshall
+@joshtpm@mastodon.social 
 
 Mike Masnick
 @mmasnick@mastodon.social 
@@ -105,11 +135,17 @@ Maryn McKenna
 Christopher Mims
 @mimsical@mastodon.social 
 
+Sara Morrison
+@SaraMorrison@mastodon.social 
+
 michael moyer
 @mmoyer@sciencemastodon.com 
 
 George Musser
 @gmusser@mastodon.social 
+
+scott nover
+@scottnover@mas.to 
 
 Laurel Oldach
 @LaurelOld@sciencemastodon.com 
@@ -123,11 +159,17 @@ Corey S Powell
 siobhan roberts
 @sioroberts@sciencemastodon.com 
 
-Charles Seife
-@cgseife@sciencemastodon.com
+Aaron Sankin
+@aaronsankin@mastodon.social 
+
+Stef Schrader
+@stefthepef@mastodon.social 
 
 David Schwartz
 @dschwa8059@sciencemastodon.com 
+
+Charles Seife
+@cgseife@sciencemastodon.com
 
 Noah Shachtman
 @noahshachtman@mstdn.social 
@@ -137,6 +179,9 @@ Josh Sternberg
 
 Brian Vastag
 @brianvastag@scicomm.xyz
+
+Shannon Vavra
+@shanvav@mstdn.social 
 
 dan vergano
 @dvergano@sciencemastodon.com 
@@ -155,7 +200,6 @@ Charlie Wood
 
 Ed Yong
 @edyong209@mastodon.xyz
-
 
 Carl Zimmer
 @Carl_Zimmer@mastodon.social 
