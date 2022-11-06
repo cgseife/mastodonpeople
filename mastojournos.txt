@@ -3,6 +3,9 @@ Journalists:
 Jason Abbruzzese
 @JasonAbbruzzese@sciencemastodon.com 
 
+Emily Alpert Reyes
+Emilyalpertreyes@mas.to
+
 Hilda Bastian
 @hildabast@mastodon.online 
 
@@ -186,6 +189,9 @@ Justin Myers
 scott nover
 @scottnover@mas.to 
 
+Emily Nussbaum
+@emilynussbaum@mstdn.social	
+
 Laurel Oldach
 @LaurelOld@sciencemastodon.com 
 
@@ -206,6 +212,9 @@ Jay Rosen
 
 Aaron Sankin
 @aaronsankin@mastodon.social 
+
+Charlie Savage
+@charlie_savage@noc.social
 
 Stef Schrader
 @stefthepef@mastodon.social 
@@ -272,3 +281,5 @@ Ed Yong
 
 Carl Zimmer
 @Carl_Zimmer@mastodon.social 
+
+
