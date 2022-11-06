@@ -93,6 +93,9 @@ David Harris
 Amanda Heidt
 @Scatter_Cushion@sciencemastodon.com 
 
+Laura Helmuth
+@laurahelmuth@mastodon.social
+
 Kashmir Hill
 @kashhill@mastodon.social 
 
@@ -131,6 +134,9 @@ Micah Lee
 
 Stephanie M. Lee
 @stephaniemlee@sciencemastodon.com 
+
+Dave Levitan
+@davelevitan@mastodon.social
 
 Taylor Lorenz
 @taylorlorenz@mastodon.social 
@@ -180,6 +186,9 @@ scott nover
 Laurel Oldach
 @LaurelOld@sciencemastodon.com 
 
+Will Oremus
+@willoremus@mastodon.social
+
 Mark Peplow
 @markpeplow@mastodon.social 
 
@@ -188,6 +197,9 @@ Corey S Powell
 
 siobhan roberts
 @sioroberts@sciencemastodon.com 
+
+Jay Rosen
+@jayrosen_nyu@mastodon.social
 
 Aaron Sankin
 @aaronsankin@mastodon.social 
@@ -220,7 +232,10 @@ Aisha Sultan
 @AishaS@mastodon.online 
 
 Clive Thompson
-@clive@saturation.social 
+@clive@saturation.social
+
+Richard Van Noorden
+@richvn@mastodon.social
 
 Brian Vastag
 @brianvastag@scicomm.xyz
