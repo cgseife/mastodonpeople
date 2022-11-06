@@ -9,6 +9,12 @@ Emilyalpertreyes@mas.to
 Hilda Bastian
 @hildabast@mastodon.online 
 
+Matthew Battles
+@matthewbattles@mastodon.social
+
+Adam Becker
+@freelanceastro@octodon.social
+
 Alan Boyle
 @alanboyle@mastodon.social
 
@@ -97,7 +103,7 @@ Anders Halverson
 @andershalverson@sciencemastodon.com 
 
 Amy Harmon
-@amy_harmon@mas.to
+@amy_harmon@sciencemastodon.com
 
 David Harris
 @physicsdavid@mastodon.social 
@@ -201,11 +207,17 @@ Emily Nussbaum
 Laurel Oldach
 @LaurelOld@sciencemastodon.com 
 
+Naomi O'Leary
+@naomiohreally@mastodon.world
+
 Will Oremus
 @willoremus@mastodon.social
 
 Mark Peplow
 @markpeplow@mastodon.social 
+
+Michael Petch
+@MichaelPetch@Mas.to
 
 Corey S Powell
 @coreyspowell@mastodon.social 
@@ -266,6 +278,9 @@ dan vergano
 
 Paul Voosen
 @voooos@sciencemastodon.com 
+
+Mindy Weisberger
+@laminda@mastodon.social
 
 Margaret Wertheim
 @margaretwerth@sciencemastodon.com
