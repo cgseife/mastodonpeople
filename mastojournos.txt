@@ -72,6 +72,9 @@ Dan Fagin
 Dan Falk
 @danfalk@sciencemastodon.com 
 
+James Fallows
+@jfallows@mastodon.online
+
 Cyrus Farivar
 @cfarivar@sfba.social 
 
@@ -271,7 +274,7 @@ Noah Shachtman
 @noahshachtman@mstdn.social 
 
 Ernie Smith
-@ernie@journa.host
+@ernie@writing.exchange
 
 Michelle R. Smith
 @mrsmith@journa.host
