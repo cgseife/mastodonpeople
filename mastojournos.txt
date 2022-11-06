@@ -6,6 +6,9 @@ Jason Abbruzzese
 Emily Alpert Reyes
 Emilyalpertreyes@mas.to
 
+Ivan Amato
+@iamato@sciencemastodon.com
+
 Hilda Bastian
 @hildabast@mastodon.online 
 
@@ -224,6 +227,9 @@ Corey S Powell
 
 siobhan roberts
 @sioroberts@sciencemastodon.com 
+
+Pallab Roygupta
+@pallab@sciencemastodon.com
 
 Jay Rosen
 @jayrosen_nyu@mastodon.social
