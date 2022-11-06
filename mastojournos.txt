@@ -18,11 +18,17 @@ Matthew Battles
 Adam Becker
 @freelanceastro@octodon.social
 
+Violet Blue	
+@violetblue@mastodon.social
+
 Alan Boyle
 @alanboyle@mastodon.social
 
 Bethany Brookshire
-@beebrookshire@mastodon.online 
+@beebrookshire@mastodon.online
+
+Tim Carmody
+@tcarmody@mastodon.social
 
 Siri Carpenter
 @SiriCarpenter@mastodon.online 
@@ -123,6 +129,9 @@ Laura Helmuth
 Kashmir Hill
 @kashhill@mastodon.social 
 
+Vivian Ho
+@vivianho@journa.host
+
 Ferris Jabr
 @ferrisjabr@mstdn.social
 
@@ -161,6 +170,9 @@ Stephanie M. Lee
 
 Dave Levitan
 @davelevitan@mastodon.social
+
+Ian Livingston
+@ianlivingston@journa.host
 
 Taylor Lorenz
 @taylorlorenz@mastodon.social 
