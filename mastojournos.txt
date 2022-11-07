@@ -3,6 +3,9 @@ Journalists:
 Jason Abbruzzese
 @JasonAbbruzzese@sciencemastodon.com 
 
+david allen green
+@davidallengreen@mastodon.green 
+
 Emily Alpert Reyes
 Emilyalpertreyes@mas.to
 
@@ -87,6 +90,9 @@ James Fallows
 Cyrus Farivar
 @cfarivar@sfba.social 
 
+Miriam Fauzia
+@miriamfauzia@sciencemastodon.com
+
 Ann Finkbeiner
 @AnnFinkbeiner@sciencemastodon.com 
 
@@ -116,6 +122,12 @@ Michelle Goldberg
 
 Flora Graham
 @floragraham@sciencemastodon.com 
+
+Nell Greenfieldboyce
+@nellgreenfieldboyce@mastodon.social 
+
+Michael Greshko
+@michaelgreshko@mastodon.social
 
 Bill Grueskin
 @BGrueskin@journa.host
@@ -172,7 +184,10 @@ Thorin Klosowski
 @Thorin@mastodon.social 
 
 Will Knight
-@willknight@mastodon.social 
+@willknight@mastodon.social
+
+Elizabeth Kolbert
+@elizkolbert@sciencemastodon.com 
 
 Kai Kupferschmidt
 @kakape@mas.to 
@@ -200,6 +215,9 @@ Jessica Luton
 
 Alexis Madrigal
 @alexismadrigal@sfba.social 
+
+Apoorva Mandavilli
+@apoorva@sciencemastodon.com 
 
 Adam A. Marshall
 @a_marshall_plan@mastodon.social 
@@ -297,6 +315,9 @@ Michelle R. Smith
 Josh Sternberg
 @joshsternberg@mstdn.social
 
+Eduardo Suarez
+@eduardosuarez@mstdn.social 
+
 Aisha Sultan
 @AishaS@mastodon.online 
 
@@ -320,6 +341,9 @@ dan vergano
 
 Paul Voosen
 @voooos@sciencemastodon.com 
+
+Jenn Walter
+@jenngwalter@mastodon.world 
 
 Mindy Weisberger
 @laminda@mastodon.social
