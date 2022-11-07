@@ -9,6 +9,9 @@ Emilyalpertreyes@mas.to
 Ivan Amato
 @iamato@sciencemastodon.com
 
+Anil Ananthaswamy
+@anil@sciencemastodon.com
+
 Hilda Bastian
 @hildabast@mastodon.online 
 
@@ -38,6 +41,9 @@ Stephen Cass
 
 Davide Castelvecchi
 @castelvecchi@c.im
+
+edward champion
+@edwardchampion@toot.community
 
 adrian cho
 @hadriancho@sciencemastodon.com
@@ -199,7 +205,7 @@ Adam A. Marshall
 @a_marshall_plan@mastodon.social 
 
 Josh Marshall
-@joshtpm@mastodon.social 
+@joshtpm@journa.host
 
 Mike Masnick
 @mmasnick@mastodon.social 
