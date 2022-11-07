@@ -51,6 +51,9 @@ Kevin Collier
 kate conger
 @cong@mastodon.social 
 
+Anne N. Connor
+AnneENConnor@scicomm.xyz
+
 Andrew Couts
 @couts@mastodon.social 
 
@@ -134,6 +137,12 @@ Kashmir Hill
 
 Vivian Ho
 @vivianho@journa.host
+
+Laura Howes
+@L_howes@mastodon.social
+
+Mathew Ingram
+mathewi@mastodon.social
 
 Ferris Jabr
 @ferrisjabr@mstdn.social
@@ -317,6 +326,9 @@ John West
 
 Emily Willingham
 @ejwillingham@mastodon.social 
+
+Alexandra Witze
+@alexwitze@sciencemastodon.com
 
 Natalie Wolchover
 @nattyover@sciencemastodon.com 
