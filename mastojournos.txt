@@ -15,6 +15,9 @@ Ivan Amato
 Anil Ananthaswamy
 @anil@sciencemastodon.com
 
+Michael Balter
+mbalter@sciencemastodon.com
+
 Hilda Bastian
 @hildabast@mastodon.online 
 
@@ -109,7 +112,10 @@ Rob Garver
 @rrgarver@journa.host
 
 Virginia Gewin
-@VirginiaGewin@mastodon.online 
+@VirginiaGewin@mastodon.online
+
+Elizabeth Gibney
+@LizzieGibney@mas.to
 
 Jack Gillum
 @jgillum@mastodon.social 
@@ -199,7 +205,13 @@ Micah Lee
 @micahflee@mastodon.social
 
 Stephanie M. Lee
-@stephaniemlee@sciencemastodon.com 
+@stephaniemlee@sciencemastodon.com
+
+Jason Leopold
+@JasonLeopold@journa.host
+
+Tom Levenson
+@tomlevenson@mastodon.online
 
 Dave Levitan
 @davelevitan@mastodon.social
@@ -228,8 +240,14 @@ Josh Marshall
 Mike Masnick
 @mmasnick@mastodon.social 
 
+Joan McCarter
+@joanmccarter@mastodon.online
+
 Maryn McKenna
 @marynmck@mastodon.social
+
+kenmiller
+@kenmiller@sciencemastodon.com
 
 Christopher Mims
 @mimsical@mastodon.social 
@@ -270,6 +288,9 @@ Will Oremus
 Mark Peplow
 @markpeplow@mastodon.social 
 
+Jeffrey Perkel
+@jperkel@sciencemastodon.com
+
 Michael Petch
 @MichaelPetch@Mas.to
 
@@ -278,6 +299,9 @@ Corey S Powell
 
 Izzie Ramirez
 @izzieramirez@masthead.social
+
+Howard Rheingold
+@hrheingold@mastodon.social
 
 siobhan roberts
 @sioroberts@sciencemastodon.com 
@@ -327,6 +351,9 @@ Aisha Sultan
 Clive Thompson
 @clive@saturation.social
 
+Kate Travis
+@kateindc@mastodon.social
+
 Richard Van Noorden
 @richvn@mastodon.social
 
@@ -375,4 +402,5 @@ Ed Yong
 Carl Zimmer
 @Carl_Zimmer@mastodon.social 
 
-
+David Zipper
+@davidzipper@mastodon.social
