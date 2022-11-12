@@ -91,7 +91,10 @@ Carmen Drahl
 @carmendrahl@sciencemastodon.com 
 
 Delaney Dryfoos
-@delaneydryfoos
+@delaneydryfoos@sciencemastodon.com
+
+Rachel Ehrenberg
+@RachelScience@sciencemastodon.com 
 
 Saba Eitizaz
 @sabaeitizaz@journa.host
@@ -291,6 +294,9 @@ Mike Masnick
 Joan McCarter
 @joanmccarter@mastodon.online
 
+Tatum McConnell
+@tatum@sciencemastodon.com 
+
 Maryn McKenna
 @marynmck@mastodon.social
 
@@ -443,6 +449,9 @@ Shannon Vavra
 
 Ivo Vegter
 @ivovegter@masthead.social
+
+Danielle Venton
+@danielle@sciencemastodon.com 
 
 dan vergano
 @dvergano@sciencemastodon.com 
