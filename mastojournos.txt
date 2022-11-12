@@ -15,6 +15,9 @@ Ivan Amato
 Anil Ananthaswamy
 @anil@sciencemastodon.com
 
+Jim Baggott
+@jimbaggott@mas.to 
+
 Michael Balter
 mbalter@sciencemastodon.com
 
@@ -97,7 +100,7 @@ Martin Enserink
 @martinenserink@sciencemastodon.com
 
 rose eveleth
-@roseveleth@mastodon.social
+@roseveleth@xoxo.zone 
 
 Dan Fagin
 @danfagin@mastodon.online
@@ -123,6 +126,9 @@ seth fletcher
 Andrew E. Freedman
 @FreedmanAE@mastodon.social 
 
+Brian Fung
+@b_fung@masto.ai 
+
 dan garisto
 @dangaristo@sciencemastodon.com 
 
@@ -134,6 +140,9 @@ Virginia Gewin
 
 Elizabeth Gibney
 @LizzieGibney@mas.to
+
+Dan Gillmor
+@dangillmor@mastodon.social 
 
 Jack Gillum
 @jgillum@mastodon.social 
@@ -285,7 +294,7 @@ Joan McCarter
 Maryn McKenna
 @marynmck@mastodon.social
 
-kenmiller
+ken miller
 @kenmiller@sciencemastodon.com
 
 Christopher Mims
@@ -313,7 +322,10 @@ scott nover
 @scottnover@mas.to 
 
 Emily Nussbaum
-@emilynussbaum@mstdn.social	
+@emilynussbaum@mstdn.social
+
+Brendan Nyhan
+@brendannyhan@mastodon.social 
 
 Laurel Oldach
 @LaurelOld@sciencemastodon.com 
@@ -326,6 +338,9 @@ Will Oremus
 
 Pratik Pawar
 @pratik@mas.to 
+
+Melissa Jo Peltier
+@MelissaJPeltier@tooting.ch 
 
 Mark Peplow
 @markpeplow@mastodon.social 
@@ -381,6 +396,9 @@ Charles Seife
 Noah Shachtman
 @noahshachtman@mstdn.social 
 
+Matt Shipman
+@ShipLives@mastodon.online 
+
 Ernie Smith
 @ernie@writing.exchange
 
@@ -401,6 +419,9 @@ Aisha Sultan
 
 Clive Thompson
 @clive@saturation.social
+
+Kerry Tomlinson
+@KerryTNews@mastodon.social 
 
 Kate Travis
 @kateindc@mastodon.social
@@ -440,6 +461,9 @@ Margaret Wertheim
 
 John West
 @jsbw@journa.host
+
+Brian Whitaker
+@Brian_Whit@toot.community 
 
 Emily Willingham
 @ejwillingham@mastodon.social 
