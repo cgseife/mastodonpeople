@@ -79,7 +79,7 @@ Andrew Couts
 @couts@mastodon.social 
 
 Adam Davidson
-@adamdavidson@mastodon.social 
+@adamdavidson@journa.host
 
 Sarah Derouin
 @sarahderouin@mastodon.social 
@@ -323,6 +323,9 @@ George Musser
 
 Justin Myers
 @myersjustinc@mastodon.sdf.org
+
+Timothy Noah
+@TimothyNoah@journa.host
 
 scott nover
 @scottnover@mas.to 
